@@ -1,57 +1,23 @@
+# Phase_11 — Object-Oriented Programming
 
-Phase 11: Object-Oriented Programming
-Classes
-Objects
-Attributes
-Methods
-Constructors
-self
-cls
-Instance variables
-Class variables
-Instance methods
-Class methods
-Static methods
-Inheritance
-Multiple inheritance
-Method overriding
-Method Resolution Order (MRO)
-super()
-Polymorphism
-Encapsulation
-Abstraction
-Abstract Base Classes
-Composition vs Inheritance
+This phase introduces the core ideas behind object-oriented programming in the Python Complete course. Use this page as a quick study guide while working through the notebooks and notes in this folder.
 
+## What this phase covers
+- Classes, objects, and encapsulation
+- Inheritance, polymorphism, and MRO
 
-Recommended Breakdown for Phase 11
-# Part 1: OOP Fundamentals & Methods (The Basics)
-Focus on building single classes and understanding how state works.
+## Study materials
+- [encapsulation](encapsulation.ipynb)
+- [inheritance and mro](inheritance_and_mro.ipynb)
+- [oop fundamentals](oop_fundamentals.ipynb)
 
-Classes, Objects, Attributes, and Methods
+## Suggested learning flow
+1. Read the notebook content from top to bottom.
+2. Try the examples on your own before comparing them with the provided solutions.
+3. Return to this page whenever you want a quick review of the phase goals.
 
-Constructors (__init__) and the self parameter
+## Navigation
+- [Back to repository home](../../README.md)
+- [← Previous: Phase_10](Phase_10/Readme.MD)
+- [Next: Phase_12 →](Phase_12/Readme.MD)
 
-Instance variables vs. Class variables
-
-Instance methods, Class methods (@classmethod, cls), and Static methods (@staticmethod)
-
-# Part 2: Code Reuse & Relationships (Inheritance & MRO)
-Focus on code hierarchies and how Python resolves method calls across multiple classes.
-
-Inheritance and Method Overriding
-
-Multiple Inheritance
-
-Method Resolution Order (MRO) and the super() function
-
-# Part 3: Architecture & Design Principles (The Pillars)
-Focus on clean software design, data hiding, and structural patterns.
-
-Encapsulation (public, protected, private, and property getters/setters)
-
-Abstraction & Abstract Base Classes (ABCs)
-
-Polymorphism
-
-Composition vs. Inheritance ("Has-a" vs. "Is-a")

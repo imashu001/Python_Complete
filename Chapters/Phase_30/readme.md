@@ -1,20 +1,21 @@
-Phase 30: System Design for Python Engineers
-REST APIs
-Microservices
-FastAPI
-Flask
-Django (basics)
-Caching (Redis)
-Message Queues (Kafka, RabbitMQ)
-Databases (SQL & NoSQL)
-Docker
-Kubernetes (basics)
-CI/CD
-Scaling
-Load Balancing
+# Phase_30 — Advanced Topics
 
-Part 1: Web Frameworks & API Architectures (REST principles, FastAPI, Flask, and Django basics)
+This phase introduces the core ideas behind advanced topics in the Python Complete course. Use this page as a quick study guide while working through the notebooks and notes in this folder.
 
-Part 2: Data Layers, Caching & Asynchronous Processing (SQL & NoSQL databases, Redis Caching, Kafka, and RabbitMQ)
+## What this phase covers
+- Core concepts and practical examples
 
-Part 3: Infrastructure, Containerization & Scalability (Docker, Kubernetes basics, CI/CD, Load Balancing, and Horizontal/Vertical Scaling)
+## Study materials
+- [data layers caching and-async processing](data_layers_caching_and-async_processing.ipynb)
+- [infra container scale](infra_container_scale.ipynb)
+- [web framework and api arch](web_framework_and_api_arch.ipynb)
+
+## Suggested learning flow
+1. Read the notebook content from top to bottom.
+2. Try the examples on your own before comparing them with the provided solutions.
+3. Return to this page whenever you want a quick review of the phase goals.
+
+## Navigation
+- [Back to repository home](../../README.md)
+- [← Previous: Phase_28](Phase_28/Readme.MD)
+

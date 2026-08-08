@@ -1,18 +1,21 @@
-Phase 28: Senior-Level Python Topics
-SOLID Principles
-Clean Code
-Code Smells
-Refactoring
-Dependency Injection
-Packaging
-Versioning
-Virtual Environments
-Poetry
-pip
-uv
-Build systems
+# Phase_28 — Advanced Topics
 
+This phase introduces the core ideas behind advanced topics in the Python Complete course. Use this page as a quick study guide while working through the notebooks and notes in this folder.
 
-Part 1: Software Craftsmanship & Code Quality (SOLID Principles, Clean Code, Code Smells, Refactoring, and Dependency Injection)
+## What this phase covers
+- Core concepts and practical examples
 
-Part 2: Python Packaging, Dependency Management & Tooling (Virtual Environments, pip, Poetry, uv, Versioning, and Build Systems)
+## Study materials
+- [craftmanship code quality](craftmanship_code_quality.ipynb)
+- [dependency management](dependency_management.ipynb)
+
+## Suggested learning flow
+1. Read the notebook content from top to bottom.
+2. Try the examples on your own before comparing them with the provided solutions.
+3. Return to this page whenever you want a quick review of the phase goals.
+
+## Navigation
+- [Back to repository home](../../README.md)
+- [← Previous: Phase_27](Phase_27/Readme.MD)
+- [Next: Phase_30 →](Phase_30/Readme.MD)
+

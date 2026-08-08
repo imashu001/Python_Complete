@@ -1,20 +1,22 @@
-Phase 4: Functions
-Defining functions
-Parameters
-Arguments
-Positional arguments
-Keyword arguments
-Default arguments
-Variable-length arguments (*args)
-Keyword variable arguments (**kwargs)
-Return values
-Scope (LEGB)
-Lambda
-Recursion
-Closures
-Nested functions
-First-class functions
-Higher-order functions
+# Phase_04 — Functions
 
+This phase introduces the core ideas behind functions in the Python Complete course. Use this page as a quick study guide while working through the notebooks and notes in this folder.
 
-## this phase is splited into Phase 4A: Function Basics & Arguments and Phase 4B: Advanced Functions & Functional Concepts
+## What this phase covers
+- Function definition and parameter handling
+- Scope, return values, and intermediate function concepts
+
+## Study materials
+- [function basics](function_basics.ipynb)
+- [function intermediate](function_intermediate.ipynb)
+
+## Suggested learning flow
+1. Read the notebook content from top to bottom.
+2. Try the examples on your own before comparing them with the provided solutions.
+3. Return to this page whenever you want a quick review of the phase goals.
+
+## Navigation
+- [Back to repository home](../../README.md)
+- [← Previous: Phase_03](Phase_03/Readme.MD)
+- [Next: Phase_05 →](Phase_05/Readme.MD)
+
